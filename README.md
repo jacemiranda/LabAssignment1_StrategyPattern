@@ -21,11 +21,6 @@ This project involves refactoring a legacy `Character` class from a `GameApp` sc
 * [cite_start]`Dodge`: Used for avoiding attacks[cite: 9].
 * [cite_start]`CreateMagic`: Used for magical protection[cite: 10].
 
-## How to Run
-1.  Open the project in **IntelliJ IDEA**.
-2.  Navigate to the `GameApp.java` file.
-3.  Run the `main` method to see the characters executing their specific strategies.
-
 ## UML Diagram
 <img width="1878" height="1092" alt="StrategyPattern" src="https://github.com/user-attachments/assets/7e30e44f-c4f7-4e2a-a7db-2b451d4c4e1a" />
 
