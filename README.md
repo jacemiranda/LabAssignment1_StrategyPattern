@@ -1,24 +1,22 @@
-# Strategy Lab Assignment
-
 ## Problem Scenario
 Suppose we have three types of characters in a GameApp:
 
-1. [cite_start]**Knight**: Attacks with a sword; uses 3 strategies to defend (shield, dodge, magic barrier) [cite: 3]
-2. [cite_start]**Wizard**: Casts spells; uses magic barrier to defend [cite: 4]
-3. [cite_start]**Archer**: Shoots arrows; uses dodge to defend [cite: 5]
+1. **Knight**: Attacks with a sword; uses 3 strategies to defend (shield, dodge, magic barrier)
+2. **Wizard**: Casts spells; uses magic barrier to defend
+3. **Archer**: Shoots arrows; uses dodge to defend
 
 ## Strategy Implementation Requirements
 Implement two types of Strategy:
 
-### [cite_start]A. DefenseStrategy [cite: 7]
-1. [cite_start]Shield [cite: 8]
-2. [cite_start]Dodge [cite: 9]
-3. [cite_start]CreateMagic [cite: 10]
+### A. DefenseStrategy
+1. Shield
+2. Dodge
+3. CreateMagic
 
-### [cite_start]B. AttackStrategy [cite: 11]
-1. [cite_start]CastSpell [cite: 12]
-2. [cite_start]ShootArrow [cite: 13]
-3. [cite_start]SwingSword [cite: 14]
+### B. AttackStrategy
+1. CastSpell
+2. ShootArrow
+3. SwingSword
 
 ---
 
